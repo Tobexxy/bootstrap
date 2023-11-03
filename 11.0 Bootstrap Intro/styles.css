@@ -9,3 +9,17 @@
     height: 100vh;
 }
 
+.feature-icon.d-inline-flex{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    
+}
+
+.bi.bi-bookmark-fill {
+    color: green;
+}
+
+.text-bg-success{
+    color: green;
+}
